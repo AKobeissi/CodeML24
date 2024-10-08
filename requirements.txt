@@ -1,0 +1,25 @@
+# Data Manipulation and Analysis
+pandas
+numpy
+
+# Geospatial Data Processing
+geopandas
+rasterio
+
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+torch
+
+# Data Visualization
+matplotlib
+seaborn
+folium
+
+# Additional libraries for working with geospatial data formats
+shapely
+fiona
+
+# Optional: Hyperparameter tuning and advanced features
+optuna
